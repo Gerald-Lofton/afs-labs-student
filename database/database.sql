@@ -1,4 +1,4 @@
---
+-- This is my comment for PipeLine build check
 -- PostgreSQL database dump
 --
 
