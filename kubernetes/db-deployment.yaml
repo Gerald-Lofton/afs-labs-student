@@ -26,6 +26,6 @@ spec:
         - secretRef:
             name: db-secret
         name: db-deployment
-        image: harbor.dev.afsmtddso.com/glofton-harbor-project/db:971c881-3b3cbea
+        image: harbor.dev.afsmtddso.com/glofton-harbor-project/db:4639904-873efea
         ports:
         - containerPort: 5432
