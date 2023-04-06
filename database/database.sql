@@ -1,4 +1,4 @@
--- This is my comment for PipeLine build check
+-- This is my Second comment for Jenkins PipeLine build check for Harbor_scanner.py script
 -- PostgreSQL database dump
 --
 
